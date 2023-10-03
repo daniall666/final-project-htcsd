@@ -1,2 +1,2 @@
 # final-project-htcsd
-Final Project Files for How to Code: Simple Data
+Final Project Source Code for How to Code: Simple Data
